@@ -4,10 +4,12 @@
 
 # 🌐 Awesome 3D Data Visualization & Architectural Rendering 🏛️✨
 
+<a href="https://github.com/ishandutta2007/Aeesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-3D-Data-Visualization-Architectural-Rendering)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-3D-Data-Visualization-Architectural-Rendering/pulls)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🚀 A comprehensive, curated directory of leading **SaaS platforms**, **cloud rendering pipelines**, and **top open-source projects** powering the next generation of **3D Data Visualization**, **Architectural Rendering**, **Geospatial 3D Tiles**, **BIM / IFC digital twins**, and **WebGL/WebGPU applications**.
 
@@ -18,6 +20,8 @@
 - [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
 - [🛠️ Open-Source GitHub Projects](#️-open-source-github-projects)
 - [🎯 Frameworks for Building Custom 3D Pipelines](#-frameworks-for-building-custom-3d-pipelines)
+- [📈 Star History](#--star-history)
+- [💖 Support](#-support)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ License & Disclaimer](#️-license--disclaimer)
 
@@ -99,6 +103,23 @@ Contributions to this ecosystem catalog are welcomed! To propose additions or up
 3. 📌 Ensure any SaaS tool includes exact starting tier pricing, explicit free-tier limits, and corporate scale metrics.
 4. ⭐ For open-source repos, include the repository URL, exact license, and social star badge linking to its `/stargazers` page.
 5. 🚀 Submit a **Pull Request** with a concise summary of the addition.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-3D-Data-Visualization-Architectural-Rendering&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-3D-Data-Visualization-Architectural-Rendering&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you so much for exploring this curated ecosystem! If you find this directory valuable for your architectural rendering pipelines, 3D data visualization projects, or digital twin workflows:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** your favorite tools and libraries.
+- 📢 **Share it** with fellow developers, architects, and data practitioners.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new ecosystem additions, check out my [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)!
 
 ---
 
