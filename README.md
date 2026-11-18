@@ -101,7 +101,7 @@ Contributions to this ecosystem catalog are welcomed! To propose additions or up
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or edit** entries in [`README.md`](README.md).
 3. 📌 Ensure any SaaS tool includes exact starting tier pricing, explicit free-tier limits, and corporate scale metrics.
-4. ⭐ For open-source repos, include the repository URL, exact license, and social star badge linking to its `/stargazers` page.
+4. ⭐ For open-source repos, include the repository URL, exact license, and social Stars_Badge linking to its `/stargazers` page.
 5. 🚀 Submit a **Pull Request** with a concise summary of the addition.
 
 ---
